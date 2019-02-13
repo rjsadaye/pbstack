@@ -1,0 +1,12 @@
+[submodule "fabric"]
+	path = fabric
+	url = https://github.com/hyperledger/fabric.git
+[submodule "composer"]
+	path = composer
+	url = https://github.com/hyperledger/composer.git
+[submodule "blockchain-explorer"]
+	path = blockchain-explorer
+	url = https://github.com/hyperledger/blockchain-explorer.git
+[submodule "caliper"]
+	path = caliper
+	url = https://github.com/hyperledger/caliper.git
