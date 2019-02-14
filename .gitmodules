@@ -10,3 +10,6 @@
 [submodule "caliper"]
 	path = caliper
 	url = https://github.com/hyperledger/caliper.git
+[submodule "hlf-docker-swarm"]
+	path = hlf-docker-swarm
+	url = https://github.com/rjsadaye/hlf-docker-swarm.git
